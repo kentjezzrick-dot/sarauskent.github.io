@@ -1,1 +1,2 @@
-https://kentjezzrick-dot.github.io/sarauskent.github.io/
+sarauskent.github.io
+my personal portfolio website
